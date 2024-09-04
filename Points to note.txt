@@ -1,0 +1,28 @@
+Points to note:
+1. dailyActivity_merged tables contains data from 
+    a. dailyCalories_merged
+    b. dailyIntensities_merged
+    c. dailySteps_merged
+all merged to create the dailyActivity_merged table. Hence, these data would not be used for this analysis.
+
+2. It is possible to drill down on the above columns using their hourly variants. 
+    a. Drill down on the dailyCalories_merged (with calories column) via the hourlyCalories_merged table. 
+    b. Drill down dailyintensities using the hourlyintensities table. 
+    c. Drill down dailySteps (stepstotal) using the hourlySteps merged table.
+
+3. I would be creating a new table (hourlyActivity_merged) by merging data from the hourly tables: hourlyCalories_merged, hourlyintensities, hourlySteps_merged
+
+4. I will not be using these table as they are part of the dailyActivitymerged already: dailyCalories_merged, dailyIntensities_merged, dailySteps_merged.
+
+5. I will also not be drilling further into these tables (all tables detailing minute activities) as I do not need the level of detail they offer. There are 5 tables fulfilling this condition namely: minuteCaloriesNarrow_merged, minuteCaloriesWide_merged, minuteIntensitiesWide_merged, minuteMETsNarrow_merged, minuteSleep_merged minuteStepsWide_merged and heartrate_seconds_merged.
+
+5. Two table, sleepDay_merged and weightLogInfo_merged would be further explored.
+
+EDA
+- Doctors generally consider fewer than 5,000 steps per day to be sedentary
+- Use average steps to calculate for the diff classes
+< 7,499 is low
+7,500 - 12,499 is active
+12,500 and above is very active
+
+Use DAYOFWEEK of week to get an index of the day of week with Sunday as 1 and Saturday as 7.

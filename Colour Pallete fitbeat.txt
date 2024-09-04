@@ -1,0 +1,17 @@
+Active User: Deep Blue (#2C3E50)
+Moderate User: Vibrant Orange (#E67E22)
+Low User: Soft Red (#E74C3C)
+
+
+Day	Hex Code
+Monday	#1ABC9C
+Tuesday	#9B59B6
+Wednesday	#27AE60
+Thursday	#F1C40F
+Friday	#3498DB
+Saturday	#E91E63
+Sunday	#7F8C8D
+
+IF STR(DATEPART('hour', [Activity Hour])) >= 0 AND [Activity Hour] < 12 THEN "Morning"
+ELSE "TEST VALUE"
+END
