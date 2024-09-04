@@ -46,12 +46,13 @@ Time of Day: Most steps were taken at noon, while the morning had the least.
 Calories Burned: Tuesday had the most calories burned on average, with noon being the peak time.
 ### 5. Share
 Key Insights:
-On average, 14 out of 33 users (42.4%) recorded more than 8,000 steps daily, while 19 users (57.6%) averaged fewer than 8,000 steps.
-We also observed that only five users were categorized as active (including the very active category), while eight were classified as sedentary. Approximately 79% of the users (26 out of 33) were either sedentary, lowly active, or somewhat active.
-Interestingly, Saturday, rather than Monday or Friday, had the highest average number of total steps, with Tuesday following closely. The highest average step count was recorded between noon and 4 PM. On the other hand, Sunday and Thursday saw the lowest average step counts, with the morning hours having the fewest steps.
-Tuesday also recorded the highest average number of calories burned, followed by Saturday, though the difference between these days was minimal. The fewest calories were burned on Thursday and Sunday, with noon being the time of day when the most calories were burned, and morning the least.
-Saturday had the most active minutes on average, followed by Friday and Tuesday. In contrast, Monday and Tuesday had the highest average sedentary minutes, with Thursday and Saturday having the lowest.
-The scatter plot analysis revealed no significant relationships between the variables. It’s important to note that these insights may not be fully representative, as the sample size is quite limited.
+* On average, 14 out of 33 users (42.4%) recorded more than 8,000 steps daily, while 19 users (57.6%) averaged fewer than 8,000 steps.
+* We also observed that only five users were categorized as active (including the very active category), while eight were classified as sedentary. Approximately 79% of the users (26 out of 33) were either sedentary, lowly active, or somewhat active.
+* Interestingly, Saturday, rather than Monday or Friday, had the highest average number of total steps, with Tuesday following closely. The highest average step count was recorded between noon and 4 PM. On the other hand, Sunday and Thursday saw the lowest average step counts, with the morning hours having the fewest steps.
+* Tuesday also recorded the highest average number of calories burned, followed by Saturday, though the difference between these days was minimal. The fewest calories were burned on Thursday and Sunday, with noon being the time of day when the most calories were burned, and morning the least.
+* Saturday had the most active minutes on average, followed by Friday and Tuesday. In contrast, Monday and Tuesday had the highest average sedentary minutes, with Thursday and Saturday having the lowest.
+The scatter plot analysis revealed no significant relationships between the variables.
+* It’s important to note that these insights may not be fully representative, as the sample size is quite limited.
 
 ### 6. Act
 * To improve activity levels, targeted reminders could be sent to users with low activity, encouraging them to actively use their Bellabeat devices throughout their daily routines. Gathering feedback on why users might not be wearing their devices could also be insightful.
