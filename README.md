@@ -59,4 +59,5 @@ The scatter plot analysis revealed no significant relationships between the vari
 * Special notifications should be sent out on weekends—particularly Sundays, which have the lowest step counts—as well as in the evenings, especially when users are close to but not meeting 80% of their daily step goals.
 * Given that Bellabeat is a female-centric company, targeted advertising campaigns aimed at women could help onboard new users.
 
-The link to a more detailed article can be found [here]()
+The link to a more detailed article can be found [here](https://medium.com/@oboboebuka/bella-beat-capstone-analysis-project-7cad3c5c9e1c)
+The link to the completed story on tableau can also be found [here](https://public.tableau.com/app/profile/ebuka.obobo/viz/FITBEAT/Story1)
